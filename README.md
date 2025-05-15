@@ -1,4 +1,4 @@
-Thanks for visiting my GitHub page! Here you'll find R programming scripts that I wrote for my graduate research.
+Thanks for visiting my GitHub page! Here you'll find R programming scripts I wrote for my graduate research.
 
 I am currently working as a Project Manager with the Minnesota Pollution Control Agency to protect human health and the environment through management of contaminated (Superfund) sites.
 
