@@ -4,6 +4,7 @@ I am currently working as a Project Manager with the Minnesota Pollution Control
 
 Education:
 Master's Degree in Natural Resources (Conservation Genetics) | University of Wisconsin - Stevens Point
+
 Bachelor's Degree in Environmental Biology, Minor in Chemistry | University of Wisconsin - Eau Claire
 
 Work Email: 
